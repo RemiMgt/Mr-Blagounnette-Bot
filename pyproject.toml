@@ -12,4 +12,5 @@ version = "0.1.0"
 discord = "^1.0"
 python = "^3.7"
 youtube-dl = "^2020.3"
+flatten-json = "^0.1.7"
 [tool.poetry.dev-dependencies]
